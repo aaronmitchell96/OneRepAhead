@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>ONE REP AHEAD</h1>
+      <h2>PT APP</h2>
     </div>
   );
 }
